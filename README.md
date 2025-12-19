@@ -2,7 +2,7 @@
 
 This repository contains the Open Community License (OCCL v1) - a license designed to allow open*** access to certain communities including a right-to-repair, while restricting all other rights that would actually make this an Open Source License!
 
-It's the exact same as Prusa's OCL "license" but this "license" also lets you specify exactly WHOM is included in your community, for instance you can say things like "it's only for Prusa fanboys" or "only for people who want to celebrate how awesome Prusa's success driven by the open-source community was, but not be able to also reap sucess from open source stuff themselve," or you can just simply state, "not the chinese" in keeping with Prusa's sentiments like when he stated "we are the last man standing in the West" against the Chinese in the [interview with Adafruit.](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/) 
+It's the exact same as Prusa's OCL "license" but this "license" also lets you specify exactly WHOM is included in your community, for instance you can say things like "it's only for Prusa fanboys" or "only for people who want to celebrate how awesome Prusa's success driven by the open-source community was, but not be able to also reap success from open source stuff themselves," or you can just simply state, "not the chinese" in keeping with Prusa's sentiments like when he stated "we are the last man standing in the West" against the Chinese in the [interview with Adafruit.](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/) 
 
 *** not open
 
